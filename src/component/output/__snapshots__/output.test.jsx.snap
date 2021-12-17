@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should validate Error component should validate snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="output"
+    />
+  </div>
+</body>
+`;
+
+exports[`Should validate Error component should validate snapshot 2`] = `
+<body>
+  <div>
+    <div
+      class="output"
+    >
+      <div>
+        <span>
+          &gt;
+          place 1,2,west
+        </span>
+        <br />
+      </div>
+      <div>
+        <span>
+          &gt;
+          move
+        </span>
+        <br />
+      </div>
+    </div>
+  </div>
+</body>
+`;
+
+exports[`Should validate Error component should validate snapshot with commends 1`] = `
+<body>
+  <div>
+    <div
+      class="output"
+    >
+      <div>
+        <span>
+          &gt;
+          place 1,2,west
+        </span>
+      </div>
+      <div>
+        <span>
+          &gt;
+          move
+        </span>
+      </div>
+    </div>
+  </div>
+</body>
+`;

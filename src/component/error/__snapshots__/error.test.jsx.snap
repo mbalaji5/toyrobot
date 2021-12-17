@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should validate Error component should validate snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="errormessage"
+    >
+      <span>
+        Error message
+      </span>
+    </div>
+  </div>
+</body>
+`;

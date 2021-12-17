@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should validate Error component should validate snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="container"
+    >
+      Please enter commend:
+      <input
+        data-testid="inputCommend"
+        id="inputCommend"
+        type="text"
+        value=""
+      />
+      <button
+        id="submit"
+      >
+        Submit
+      </button>
+      <button
+        id="clear"
+      >
+        Clear
+      </button>
+      <div
+        class="output"
+      />
+      
+    </div>
+  </div>
+</body>
+`;
