@@ -1,8 +1,7 @@
 ### `Prerequisite`
 
-- Node.
-- NPM.
-
+- Node
+- 
 ### `Tech`
 
 - Developed Toyrobot in React library using jsx.
