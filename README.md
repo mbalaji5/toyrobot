@@ -32,7 +32,7 @@
 - It will automatically open in chrome with 3000 port.
 - There you go.
 - start entering the commends in text box.
-- Two buttons are there one for submit the commend and other is for clearing the values.
+- Two buttons are there, one for submiting the commend and other is to reset the values.
 
 ### `npm start`
 
